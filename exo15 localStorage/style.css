@@ -1,0 +1,16 @@
+div{
+    display: grid;
+    grid-template-columns: 100px 150px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+.btnSubmit{
+    border-radius: 10vh;
+}
+
+form{
+    width: 300px;
+}
